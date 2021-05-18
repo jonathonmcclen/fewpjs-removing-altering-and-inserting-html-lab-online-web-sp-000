@@ -1,4 +1,4 @@
 // Write your code here!
 
-document.getElementById("main").delete
+document.getElementById("main").re
 let newHeader = document.getElementById
