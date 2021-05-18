@@ -1,4 +1,5 @@
 // Write your code here!
 
 document.getElementById("main").remove()
-let newHeader = document.getElementById
+let newHeader = document.createElement("h1")
+newHeader.innerHTML = "sweet message"
